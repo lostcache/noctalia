@@ -1,0 +1,17 @@
+[theme]
+mode = "dark"
+
+[wallpaper]
+enabled = false
+
+[nightlight]
+enabled = true
+force = true
+temperature_day = 6500
+temperature_night = 3500
+
+[bar.default]
+auto_hide = true
+auto_hide_delay_ms = 250
+reserve_space = false
+show_on_workspace_switch = true
