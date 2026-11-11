@@ -1,5 +1,8 @@
 [theme]
 mode = "dark"
+source = "community"
+community_palette = "Solarized"
+pure_black_dark = false
 
 [wallpaper]
 enabled = false
